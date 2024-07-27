@@ -1,0 +1,10 @@
+com\example\personnelbackend\controller\PersonnelController.class
+com\example\personnelbackend\entity\Personnel.class
+com\example\personnelbackend\repository\PersonnelRepository.class
+com\example\personnelbackend\service\MyUserDetailsService.class
+com\example\personnelbackend\service\PersonnelService.class
+com\example\personnelbackend\PersonnelbackendApplication.class
+com\example\personnelbackend\configuration\RabbitMQConfig.class
+com\example\personnelbackend\configuration\WebConfig.class
+com\example\personnelbackend\configuration\CorsFilter.class
+com\example\personnelbackend\configuration\SecurityConfig.class

@@ -1,0 +1,10 @@
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\configuration\WebConfig.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\configuration\SecurityConfig.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\repository\PersonnelRepository.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\PersonnelbackendApplication.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\configuration\CorsFilter.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\configuration\RabbitMQConfig.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\entity\Personnel.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\service\PersonnelService.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\controller\PersonnelController.java
+D:\clone\guncelproje\proje\personnelbackend\src\main\java\com\example\personnelbackend\service\MyUserDetailsService.java
